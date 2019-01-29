@@ -1,0 +1,9 @@
+Name: Ziqi Zhang
+ID: 20602436
+The project is in Java
+There are 4 files in total:
+router.java Makefile README router.sh
+How to compile:
+make
+How to run:
+./router.sh routerID hostX 9999 9991
